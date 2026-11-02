@@ -2163,7 +2163,7 @@ div.headline-spacer {
     max-width: 100%;
     margin: 0;
     padding: 10px;
-    background: none;
+    background: #FFFFFF;
     float: none;
     box-sizing: border-box;
   }
@@ -2171,7 +2171,7 @@ div.headline-spacer {
     width: auto;
     max-width: 100%;
     padding: 0 10px;
-    background: none;
+    background: #FFFFFF;
     box-sizing: border-box;
   }
   .main-section {
