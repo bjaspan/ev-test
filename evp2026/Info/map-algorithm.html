@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <title>Map Algorithm Explained</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="election, electoral vote, poll, polls, pollster, President, Senate, election prediction" />
+    <meta name="description" content="Track the election with a red/blue map of the US updated daily using the latest state polls." />
+    <meta name="robots" content="noodp" />
+    <link rel="icon" href="../../favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" media="all" href="../style.css" type="text/css"/>
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="../RSS/index.rss" />
+    <meta http-equiv="Expires" content="Sun, 31 Dec 2000 08:00:00 GMT" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+
+</head>
+<body>
+    <div class="internal-body">
+        <div class="header">
+            <div class="header-holder-int">
+                <div class="bar">
+                    <a class="text-electoral" href="../../index.html">electoral-vote.com</a>
+                    <div class="placeholder">
+                        <a href="https://www.votefromabroad.org"><img src="../Art/VFA.jpg" alt="votefromabroad.org" width="602" height="62" /></a>
+                    </div>
+                </div>
+		<div class="blue-box"> Map Algorithm Explained </div>
+            </div>
+        </div>
+        <div class="main-int">
+            <div class="container-int">
+                <div class="section-int">
+		    <!-- Your content below this line -->
+
+<p>
+Here is the algorithm for combining polls to make the map.
+</p>
+<ol>
+  <li> The most recent poll in every state is always used. </li>
+  <li> If no other polls were taken within a week of the most recent one, only the most recent poll counts.</li>
+  <li> If one or more other polls were taken within a week of the most recent, all of them are averaged, weighted equally.</li>
+</ol>
+
+<p>
+This algorithm smoothes out fluctations better and produces fewer wild swings and gives a better overall result.
+You can see which polls were used by putting the mouse on a state. The <i>Source</i> field tells which
+polls are used and gives the final date of the final poll used. If multiple polls were used, the first
+nine characters of each pollster are listed and the pollsters are separated by a "+" sign.
+</p>
+
+<p>The <a href="../Senate/senate_polls.html">EVP average</a> page uses these scores.</p>
+
+<p>
+A consequence of this algorithm is that in the "News from the Votemaster" section, a new poll may be
+reported but the map gives a different result. This effect is always due to multiple recent polls being averaged.
+You will see that this is the case by looking for the "+" sign used to separate multiple pollsters
+in the <i>Source</i> field of the pop-up box.
+Another consequence of this algorithm, is that this site may give slightly different results from other
+polling sites, each of which uses its own algorithm, sometimes a far more complex one.
+</p>
+
+<p>Why a look-back window of 1 week? It is admittedly arbitrary. If the window is too short, the results
+gyrate wildly as different polls use different <a href="polling-faq.html"> methodologies </a>. If the window is too long,
+genuine shifts in public opinion take too long to show up. The choice of 1 week is based on my now-extensive
+experience with examining polling data. Public reaction to news events often takes several days to take effect
+as people often change their opinions after talking to friends, coworkers, and relatives.</p>
+
+<p>It is worth emphasizing that the margin of error in most state polls is at least 3% for each candidate.
+Thus if a poll says Smith is beating Jones 52% to 48%, Smith might be as low as 49% and 
+Jones might be as high as 51%.
+When the difference between two candidates is less than 2x the margin of error, the race is a
+statistical tie. On the map, the states with a white center are those where the candidates
+differ by less than 5% and are certainly statistical ties. Even some of the ones in the solid
+light color may technically be statistical ties, but a lead of 5% or more most likely means
+the candidate is actually ahead.</p>
+
+<p>The tables with polling scores use the same algorithm as the map. Actually, once a day the new polls are added to the database and
+the same database is used for constructing all maps, tables, graphs, charts, etc. everywhere on the site.</p>
+		    <!-- No changes below this line -->
+		</div>
+		    <div class="return-to-main"> <a href="../../index.html"> Back to the main page </a> </div>
+	    </div>
+  	</div>
+    </div>
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+   var sc_project=9982110; 
+   var sc_invisible=1; 
+   var sc_security="2b955a3c"; 
+   var sc_https=1; 
+   var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "https://www.");
+   document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+
+<noscript>
+   <div class="statcounter"><a title="free hit
+   counters" href="https://statcounter.com/"
+   target="_blank"><img class="statcounter" src="https://c.statcounter.com/9982110/0/2b955a3c/1/" alt="free hit counters" /></a></div>>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+</body>
+</html>

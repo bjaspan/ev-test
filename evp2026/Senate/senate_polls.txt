@@ -1,0 +1,289 @@
+AL 32 47 00 Jul 08 Jul 11 Every Kid Foundation
+AK 51 49 00 Oct 26 Oct 29 AK Survey Research
+AK 48 46 00 Oct 23 Oct 30 Siena U.
+AK 48 47 00 Oct 14 Oct 15 PPP
+AK 51 49 00 Oct 01 Oct 03 AK Survey Research
+AK 50 43 00 Sep 24 Oct 01 Siena U.
+AK 52 48 00 Sep 10 Sep 12 AK Survey Research
+AK 46 41 00 Sep 08 Sep 11 Fabrizio + Anzalone
+AK 53 47 00 Sep 08 Sep 11 Fabrizio + Anzalone
+AK 51 49 00 Aug 20 Aug 23 AK Survey Research
+AK 51 49 00 Aug 02 Aug 05 AK Survey Research
+AK 45 47 00 Jun 15 Jun 29 Siena U.
+AK 49 44 00 Jun 04 Jun 07 AK Survey Research
+AK 48 44 00 May 14 May 17 AK Survey Research
+AK 50 44 00 Apr 16 Apr 19 AK Survey Research
+AK 52 48 00 Mar 19 Mar 22 AK Survey Research
+AK 49 47 00 Jan 16 Jan 17 PPP
+AK 48 46 00 Jan 08 Jan 11 AK Survey Research
+AR 41 50 00 Oct 10 Oct 15 Hendrix Coll.
+AR 35 51 00 Aug 14 Aug 18 J.L.Partners
+AR 47 44 03 Aug 11 Aug 12 Hendrix Coll.
+AR 36 58 00 Feb 07 Feb 09 Gray House
+CO 53 44 00 Jan 01 Jan 01 Election 2020
+DE 60 38 00 Jan 01 Jan 01 Election 2020
+FL 45 49 00 Oct 26 Oct 30 Stetson U.
+FL 45 49 00 Oct 25 Oct 27 St. Pete Polls
+FL 44 50 00 Oct 19 Oct 26 Siena U.
+FL 47 53 00 Oct 17 Oct 27 Activote
+FL 45 49 00 Oct 12 Oct 19 U. of North Florida
+FL 42 51 00 Oct 02 Oct 15 YouGov
+FL 45 47 00 Oct 05 Oct 07 St. Pete Polls
+FL 47 53 00 Sep 27 Oct 15 Activote
+FL 41 52 00 Oct 01 Oct 09 Stetson U.
+FL 40 50 00 Sep 28 Oct 01 Mason Dixon
+FL 44 49 00 Sep 24 Oct 03 YouGov
+FL 40 51 00 Sep 14 Sep 21 Stetson U.
+FL 45 45 00 Sep 15 Sep 17 St. Pete Polls
+GA 54 46 00 Oct 06 Oct 20 Activote
+GA 48 40 00 Oct 07 Oct 15 Atlanta Journal
+GA 51 41 00 Sep 15 Sep 18 YouGov
+GA 52 43 00 Jul 13 Jul 16 Fabrizio + Anazlone
+GA 47 43 00 Jun 27 Jun 30 Wick
+GA 56 43 00 Jun 23 Jun 27 Beacon + Shaw
+GA 52 43 00 May 13 May 16 Fabrizio + Anzalone
+GA 48 43 00 Feb 28 Mar 02 Emerson Coll.
+ID 33 62 00 Jan 01 Jan 01 Election 2020
+IL 56 44 00 Oct 21 Oct 30 Activote
+IL 58 41 00 Sep 26 Oct 20 Activote
+IL 49 36 00 Sep 30 Oct 01 PPP
+IA 48 47 00 Oct 26 Nov 01 Siena U.
+IA 50 49 00 Oct 26 Oct 29 YouGov
+IA 44 47 00 Oct 08 Oct 12 NPA Polling
+IA 47 46 00 Oct 06 Oct 12 YouGov
+IA 48 45 00 Oct 08 Oct 11 Marist Coll.
+IA 45 47 00 Oct 05 Oct 06 Emerson Coll.
+IA 43 45 00 Sep 29 Oct 05 SSRS for CNN
+IA 48 44 00 Oct 01 Oct 04 Suffolk U.
+IA 47 48 00 Sep 22 Oct 01 Siena U.
+IA 49 47 00 Sep 24 Sep 28 Beacon + Shaw
+IA 50 42 00 Sep 17 Sep 20 Marist Coll.
+IA 45 50 00 Aug 31 Sep 01 Emerson Coll.
+IA 41 45 00 Aug 20 Aug 23 Suffolk U.
+IA 45 48 00 Aug 02 Aug 04 Emerson Coll.
+IA 50 46 00 Jun 23 Jun 27 Beacon + Shaw
+IA 46 48 00 Jun 15 Jun 27 Siena U.
+IA 44 46 00 Jun 16 Jun 19 Cygnal
+IA 47 45 00 Jun 08 Jun 11 GSG
+IA 46 46 00 Jun 03 Jun 04 PPP
+KS 49 44 00 Oct 27 Nov 01 Siena U.
+KS 50 47 00 Oct 26 Oct 28 Emerson Coll.
+KS 50 49 00 Oct 26 Oct 29 YouGov
+KS 54 44 00 Oct 22 Oct 26 Washington Post
+KS 49 45 00 Oct 20 Oct 26 SSRS for CNN
+KS 48 45 00 Sep 24 Oct 04 YouGov
+KS 46 47 00 Sep 22 Sep 30 Siena U.
+KS 45 43 00 Sep 15 Sep 16 Emerson Coll.
+KY 38 58 00 Jan 01 Jan 01 Election 2020
+LA 37 41 00 Jul 21 Jul 22 PPP
+ME 51 45 00 Oct 27 Nov 01 Siena U.
+ME 54 45 00 Oct 26 Oct 31 U. of New Hampshire
+ME 52 47 00 Oct 26 Oct 29 YouGov
+ME 49 45 00 Oct 20 Oct 26 SSRS for CNN
+ME 49 47 00 Oct 22 Oct 25 Marist Coll.
+ME 49 49 00 Oct 16 Oct 20 Beacon + Shaw
+ME 49 47 00 Oct 08 Oct 11 Suffolk U.
+ME 50 46 00 Sep 30 Oct 05 Washington Post
+ME 51 47 00 Oct 01 Oct 04 Marist Coll.
+ME 49 47 00 Sep 25 Sep 29 MPRC
+ME 50 50 00 Sep 23 Oct 01 YouGov
+ME 50 47 00 Sep 20 Sep 22 Fabrizio + Anzalone
+ME 51 47 00 Sep 17 Sep 21 U. of New Hampshire
+ME 46 49 00 Sep 15 Sep 22 Siena U.
+ME 48 43 00 Aug 28 Sep 14 U. of Massachusetts
+ME 48 44 00 Sep 02 Sep 08 YouGov
+ME 48 45 00 Aug 31 Sep 06 SSRS for CNN
+ME 48 46 00 Aug 06 Aug 10 Beacon + Shaw
+ME 49 46 00 Jul 15 Jul 20 U. of New Hampshire
+ME 49 44 00 Jul 07 Jul 08 PPP
+MA 53 32 00 Oct 27 Oct 31 U. of New Hampshire
+MA 60 32 00 Oct 10 Oct 18 Suffolk U.
+MA 55 26 00 Oct 07 Oct 18 U. of Massachusetts
+MA 56 29 00 Oct 05 Oct 12 U. of Massachusetts
+MA 53 30 00 Sep 17 Sep 21 U. of New Hampshire
+MA 54 28 00 Sep 14 Sep 22 MassINC
+MA 51 30 00 Aug 05 Aug 12 U. of Massachusetts
+MA 50 34 00 Jun 18 Jun 23 U. New Hampshire
+MA 55 30 00 May 26 May 29 Suffolk U.
+MI 51 48 00 Oct 30 Oct 31 Research Co.
+MI 51 47 00 Oct 26 Oct 29 YouGov
+MI 53 42 00 Oct 23 Nov 01 Siena U.
+MI 49 42 00 Oct 20 Oct 27 SSRS for CNN
+MI 51 45 00 Oct 19 Oct 22 Glengariff Group
+MI 50 48 00 Oct 15 Oct 18 Marist Coll.
+MI 48 46 00 Oct 02 Oct 19 YouGov
+MI 49 48 00 Sep 28 Oct 05 YouGov
+MI 50 49 00 Sep 24 Sep 28 Beacon + Shaw
+MI 51 44 00 Sep 24 Sep 27 Marist Coll.
+MI 45 40 00 Sep 18 Sep 21 Beacon & Signal
+MI 47 40 00 Sep 16 Sep 20 Suffolk U.
+MI 49 44 00 Sep 15 Sep 22 Siena U.
+MI 48 46 00 Sep 12 Sep 14 Emerson Coll.
+MI 48 45 00 Sep 10 Sep 14 Washington Post
+MI 47 44 00 Aug 31 Sep 06 SSRS for CNN
+MI 44 46 00 Aug 31 Sep 03 Glengariff Group
+MI 47 43 00 Aug 22 Aug 28 EPIC-MRA
+MI 50 45 00 Aug 10 Aug 20 YouGov
+MI 46 39 00 Aug 11 Aug 17 Susquehanna
+MI 48 47 00 Aug 09 Aug 11 Fabrizio + Anzalone
+MI 47 51 00 Aug 08 Aug 10 Beacon + Shaw
+MI 43 46 00 Jul 24 Jul 31 EPIC-MRA
+MI 39 49 00 Jul 22 Jul 24 Glengariff Group
+MI 40 45 00 Apr 28 May 01 Glengariff Group
+MI 43 43 00 Jan 24 Jan 25 Emerson Coll.
+MI 43 43 00 Jan 02 Jan 06 Glengariff Group
+MN 52 47 00 Oct 30 Oct 31 Research Co.
+MN 48 41 00 Oct 24 Oct 28 SurveyUSA
+MN 54 40 00 Oct 19 Oct 26 Siena U.
+MN 45 42 00 Oct 08 Oct 12 SurveyUSA
+MN 47 43 00 Oct 05 Oct 07 Mason Dixon
+MN 45 41 00 Oct 02 Oct 06 Morning Consult
+MN 42 42 00 Sep 09 Sep 14 SurveyUSA
+MN 46 41 00 Aug 13 Aug 17 SurveyUSA
+MN 47 41 00 Feb 06 Feb 06 Emerson Coll.
+MS 44 47 00 Apr 08 Apr 12 Impact Research
+MT 21 30 26 Oct 05 Oct 21 Montana State U.
+MT 13 35 37 Oct 06 Oct 08 Concord POP
+MT 16 38 30 Aug 27 Sep 07 Rutgers-Eagleton
+MT 22 38 26 Jul 13 Jul 27 Tavern + Bullfinch
+MT 23 44 21 Jun 23 Jun 24 Grayhouse + Hart
+NE 00 49 49 Oct 26 Oct 29 YouGov
+NE 00 49 43 Oct 23 Oct 29 Siena U.
+NE 00 41 48 Oct 15 Oct 18 Concord POP
+NE 00 46 43 Oct 02 Oct 05 NPA Polling
+NE 00 47 48 Sep 24 Oct 03 YouGov
+NE 00 42 46 Sep 08 Sep 13 SurveyUSA
+NH 54 42 00 Oct 27 Oct 31 U. of New Hampshire
+NH 50 43 00 Oct 19 Oct 20 Saint Anselm Coll.
+NH 48 41 00 Oct 02 Oct 19 U. of Massachusetts
+NH 50 43 00 Oct 08 Oct 12 NPA Polling
+NH 51 43 00 Sep 28 Oct 05 YouGov
+NH 51 44 00 Sep 28 Sep 29 Saint Anselm Coll.
+NH 50 42 00 Sep 17 Sep 21 U. of New Hampshire
+NH 50 45 00 Sep 15 Sep 22 Siena U.
+NH 43 42 00 Jun 24 Jun 27 Peak Insights
+NH 47 41 00 Jun 24 Jun 25 Saint Anselm Coll.
+NH 49 42 00 Apr 17 Apr 21 U. of New Hampshire
+NH 46 43 00 Mar 16 Mar 18 Saint Anselm Coll.
+NH 45 44 00 Mar 01 Mar 23 Emerson Coll.
+NH 50 45 00 Jan 15 Jan 19 U. of New Hampshire
+NJ 61 38 00 Jan 01 Jan 01 Election 2020
+NM 54 36 00 Sep 25 Sep 30 SurveyUSA
+NM 53 38 00 Aug 21 Aug 28 Research and Polling
+NC 54 45 00 Oct 26 Oct 29 East Carolina U.
+NC 55 44 00 Oct 26 Oct 29 YouGov
+NC 57 43 00 Oct 08 Oct 20 Activote
+NC 54 40 00 Oct 01 Oct 20 High Point U.
+NC 54 40 00 Oct 07 Oct 07 SurveyUSA
+NC 52 39 00 Sep 29 Oct 08 Elon U.
+NC 50 43 00 Sep 30 Oct 03 East Carolina U.
+NC 53 42 00 Sep 17 Sep 20 Fabrizio + Anzalone
+NC 53 41 00 Sep 15 Sep 18 YouGov
+NC 50 42 00 Sep 06 Sep 16 High Point U.
+NC 48 37 00 Sep 04 Sep 15 YouGov
+NC 52 44 00 Aug 31 Sep 03 East Carolina U.
+NC 49 38 00 Aug 21 Aug 31 YouGov
+NC 50 45 00 Aug 03 Aug 12 High Point U.
+NC 53 42 00 Jul 23 Jul 31 Elon U.
+NC 53 44 00 Jul 23 Jul 27 Beacon + Shaw
+NC 48 44 00 Jul 09 Jul 10 PPP
+NC 50 43 00 Jun 15 Jun 27 Siena U.
+NC 48 34 00 Jun 01 Jun 04 YouGov
+NC 50 41 00 Apr 21 Apr 24 Opinion Diagnostics
+NC 50 42 00 Mar 26 Apr 06 High Point U.
+NC 47 44 00 Mar 13 Mar 14 PPP
+NC 48 34 00 Mar 09 Mar 18 YouGov
+OH 49 48 00 Oct 30 Oct 31 Research Co.
+OH 49 44 00 Oct 26 Nov 01 Siena U.
+OH 50 48 00 Oct 26 Oct 29 YouGov
+OH 50 50 00 Oct 18 Oct 31 Activote
+OH 47 44 00 Oct 21 Oct 26 Suffolk U.
+OH 52 47 00 Oct 15 Oct 19 Beacon + Shaw
+OH 47 42 00 Oct 16 Oct 17 On Point Polling
+OH 48 44 00 Oct 15 Oct 18 Marist Coll.
+OH 50 50 00 Sep 26 Oct 18 Activote
+OH 48 42 00 Sep 29 Oct 09 YouGov
+OH 49 46 00 Sep 22 Oct 01 Siena U.
+OH 47 44 00 Sep 23 Sep 27 Suffolk U.
+OH 51 43 00 Sep 24 Sep 27 Marist Coll.
+OH 49 45 00 Sep 18 Sep 30 YouGov
+OH 49 43 00 Sep 09 Oct 05 SSRS for CNN
+OH 47 42 00 Sep 08 Sep 09 Insider Advantage
+OH 48 45 00 Sep 01 Sep 10 YouGov
+OH 53 45 00 Aug 06 Aug 10 Beacon + Shaw
+OH 47 50 00 Jun 15 Jun 28 Siena U.
+OH 48 45 00 Jun 14 Jun 16 Fabrizio + Anzalone
+OH 53 45 00 May 28 Jun 01 Beacon + Shaw
+OH 47 50 00 Apr 07 Apr 14 YouGov
+OH 51 47 00 Feb 10 Feb 22 EMC Research
+OK 33 63 00 Jan 01 Jan 01 Election 2020
+OR 58 39 00 Jan 01 Jan 01 Election 2020
+RI 63 32 00 Oct 27 Oct 31 U. of New Hampshire
+RI 59 25 00 Oct 08 Oct 11 Emerson Coll.
+RI 55 32 00 Oct 05 Oct 08 Salve Regina U.
+RI 53 33 00 Sep 17 Sep 21 U. of New Hampshire
+RI 52 35 00 Jun 18 Jun 23 U. of New Hampshire
+RI 52 34 00 Apr 16 Apr 20 U. of New Hampshire
+SC 48 48 00 Oct 19 Oct 26 Siena U.
+SC 47 51 00 Oct 19 Oct 24 East Carolina U.
+SC 38 51 00 Aug 26 Aug 28 Abacus Data
+SD 00 41 43 Oct 22 Oct 26 Concord POP
+SD 00 50 42 Oct 19 Oct 20 Emerson Coll.
+SD 00 56 37 Oct 12 Oct 14 Mason Dixon
+SD 18 43 23 May 29 May 30 PPP
+TN 35 62 00 Jan 01 Jan 01 Election 2020
+TX 52 46 00 Oct 28 Nov 01 AtlasIntel
+TX 50 43 00 Oct 27 Nov 01 Siena U.
+TX 51 47 00 Oct 26 Oct 29 YouGov
+TX 52 48 00 Oct 22 Oct 28 Activote
+TX 49 43 00 Oct 20 Oct 27 SSRS for CNN
+TX 49 47 00 Oct 21 Oct 25 Texas Southern U.
+TX 51 49 00 Oct 17 Oct 21 Activote
+TX 49 48 00 Oct 17 Oct 19 Emerson Coll.
+TX 49 49 00 Oct 15 Oct 19 Beacon + Shaw
+TX 50 45 00 Oct 13 Oct 21 YouGov
+TX 50 46 00 Oct 17 Oct 18 On Point Polling
+TX 51 47 00 Oct 15 Oct 18 Texas Public Opinion Res.
+TX 48 46 00 Oct 10 Oct 14 U. of Houston
+TX 51 49 00 Oct 08 Oct 16 YouGov
+TX 47 45 00 Oct 08 Oct 11 Marist Coll.
+TX 52 48 00 Sep 30 Oct 14 Activote
+TX 48 44 00 Oct 05 Oct 08 Siena U.
+TX 50 44 00 Sep 28 Oct 05 YouGov
+TX 50 47 00 Sep 25 Oct 05 U. of Texas
+TX 51 49 00 Sep 24 Sep 28 Beacon + Shaw
+TX 51 45 00 Sep 21 Sep 30 Siena U.
+TX 45 45 00 Sep 18 Sep 28 U. of Massachusetts
+TX 49 44 00 Sep 19 Sep 22 Texas Public Opinion Res.
+TX 50 44 00 Sep 17 Sep 20 Marist Coll.
+TX 47 46 00 Sep 15 Sep 19 YouGov
+TX 47 46 00 Sep 12 Sep 14 Emerson Coll.
+TX 46 43 00 Sep 08 Sep 10 Mason Dixon
+TX 49 43 00 Sep 08 Sep 11 Siena U.
+TX 48 43 00 Aug 27 Sep 04 YouGov
+TX 48 44 00 Aug 30 Sep 01 Fabrizio + Anzalone
+TX 50 50 00 Aug 24 Aug 26 Overton Insights
+TX 42 39 00 Aug 05 Aug 13 YouGov
+TX 46 47 00 Aug 08 Aug 09 Emerson Coll.
+TX 47 43 00 Jul 27 Jul 30 Siena U.
+TX 47 43 00 Jul 27 Jul 30 YouGov
+TX 47 45 00 Jul 27 Jul 30 Texas Southern U.
+TX 51 48 00 Jul 23 Jul 27 Beacon + Shaw
+TX 45 40 00 Jul 15 Jul 17 Texas Public Opinion Res.
+TX 48 46 00 Jun 23 Jun 28 A2 Insights
+TX 47 47 00 Jun 19 Jun 27 Siena U.
+TX 42 43 00 Jun 05 Jun 12 U. Texas
+TX 42 43 00 Jun 05 Jun 12 YouGov
+TX 46 46 00 Jun 01 Jun 04 Siena U.
+TX 47 44 00 May 27 May 28 Texas Public Opinion Res.
+TX 45 38 00 May 22 May 23 PPP
+TX 45 45 00 Apr 22 May 06 Texas Southern U.
+TX 45 45 00 Apr 22 May 06 YouGov
+TX 46 41 00 Apr 17 Apr 20 Texas Public Opinion Res.
+TX 42 34 00 Apr 10 Apr 20 YouGov
+TX 47 45 00 Mar 04 Mar 05 PPP
+TX 44 46 00 Jan 20 Jan 21 YouGov
+TX 46 46 00 Jan 10 Jan 12 Emerson Coll.
+VA 55 29 00 May 01 May 05 Public Sentiment Inst.
+WV 33 65 00 Jan 01 Jan 01 Election 2020
+WY 27 73 00 Jan 01 Jan 01 Election 2020
