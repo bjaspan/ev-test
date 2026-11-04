@@ -2064,83 +2064,74 @@ div.headline-spacer {
     margin-right: 10px;
   }
 
-  /* --- Header: let the bar and panel reflow --- */
-  .header .bar,
-  .header .panel {
-    width: auto;
-    max-width: 100%;
-    padding-left: 10px;
-    padding-right: 10px;
-    box-sizing: border-box;
+  /* --- Header: hide big red and blue banners on mobile --- */
+  .header {
+    display: none;
   }
 
-  /* Let the banner image scale */
-  .header .placeholder {
-    float: none;
-    max-width: 100%;
-    margin-top: 8px;
-  }
-
-  .header .text-electoral {
-    float: none;
-    margin: 8px auto 0;
-    display: block;
-    max-width: 299px;
-  }
-
-  .header .date {
-    float: none;
-    margin: -18px auto 8px;
-  }
-
-  /* Score boxes: center them */
-  .score-box {
-    float: none;
-    padding: 12px 0 0 0;
-  }
-  .score-holder {
+  /* --- Reorder layout for mobile: move reports buttons to bottom --- */
+  .main {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
   }
-
-  /* --- Sidebars: stack below content instead of floating --- */
+  .container {
+    display: contents;
+  }
+  .section {
+    display: contents;
+  }
   .section .aside {
-    float: none;
-    width: auto;
-    max-width: 100%;
-    margin-bottom: 16px;
+    display: contents;
   }
+
+  /* Navigation menu ("Welcome & FAQs", etc.): hide on mobile */
   .section .aside:first-child {
-    float: none;
+    display: none;
   }
 
-  .section .box,
-  .section .frame {
-    width: auto;
-    max-width: 100%;
+  /* Hide Legend Box ("Strongly Dem, Likely Dem, ..."), Map Algorithm, and Historical Date Box on Mobile */
+  .legend-list,
+  .mapalg,
+  .info-box,
+  .section .aside .box {
+    display: none;
   }
 
-  /* Nav links list */
-  .nav {
-    width: auto;
-    max-width: 100%;
-  }
-
-  /* --- Map: scale to fit the viewport --- */
+  /* Map: at the top of the mobile content */
   .section .map-holder {
+    order: 1;
     width: auto;
     max-width: 100%;
     height: auto;
     padding-left: 0;
+    margin: 15px auto 0;
     overflow: hidden;
+    text-align: center;
   }
 
-  /* --- Polls block: fluid width --- */
+  /* Polls block: below map */
   .polls-block {
+    order: 2;
     width: auto;
     max-width: 100%;
-    margin: 0 0 40px;
+    margin: 15px 10px 30px;
     box-sizing: border-box;
+  }
+
+  /* Main content container */
+  .container-1 {
+    order: 3;
+  }
+
+  /* Previous and Next Report buttons: move to bottom of page on mobile */
+  .reports-btn {
+    order: 4;
+    display: block;
+    float: none;
+    margin: 25px auto 30px;
+    width: 206px;
+    clear: both;
+    overflow: hidden;
   }
   .polls-block-frame {
     width: auto;
@@ -2198,20 +2189,14 @@ div.headline-spacer {
     padding: 15px 0;
   }
 
-  /* Political Wire table */
+  /* Political Wire table: hide on mobile */
   table.pw {
-    width: 100%;
-    table-layout: fixed;
-  }
-  td.pw {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
+    display: none !important;
   }
 
-  /* Social box */
+  /* Social box (phone, twitter, RSS icons): hide on mobile */
   .social-box {
-    width: auto;
-    max-width: 206px;
+    display: none;
   }
 
   /* Previous/Next report buttons */
@@ -2236,7 +2221,14 @@ div.headline-spacer {
     padding: 0;
   }
 
-  /* Footer */
+  /* Footer: hide Google search box on mobile */
+  .footer form {
+    display: none;
+  }
+  .footer {
+    background: none;
+    min-height: 0;
+  }
   .footer-box {
     width: auto;
     max-width: 100%;
@@ -2262,9 +2254,6 @@ div.headline-spacer {
     max-width: 100%;
     overflow-x: auto;
     display: block;
-  }
-  table.pw {
-    display: table;
   }
 
   /* Top box (today's headlines) */
@@ -2312,23 +2301,6 @@ div.headline-spacer {
     line-height: 34px;
   }
 
-  /* Political Wire table: stack cells vertically */
-  table.pw,
-  table.pw tbody,
-  table.pw tr,
-  table.pw td {
-    display: block;
-    width: 100% !important;
-    box-sizing: border-box;
-  }
-  table.pw td {
-    padding: 5px;
-  }
-  table.pw td img {
-    max-width: 120px;
-    margin: 0 auto;
-    display: block;
-  }
 
   h1 {
     font-size: 22px;
