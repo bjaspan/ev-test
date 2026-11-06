@@ -1,4 +1,4 @@
-document.write('<img width=580 height=359 src=\"/evp2026/Senate/Pngs/Nov02.png\" usemap=\"#Nov02.png\" border=0><map name=\"Nov02.png\">');
+document.write('<img width=580 height=359 src=\"https://www.electoral-vote.com/evp2026/Senate/Pngs/Nov02.png\" usemap=\"#Nov02.png\" border=0><map name=\"Nov02.png\">');
 document.write('<area href=\"/evp2026/Senate/Graphs/alabama.html\" onmouseover=\"return escape(tooltip(\'Alabama\',\'1\',\'32\',\'47\',\'\',\'Jul 11\',\'Every Kid Foundation\',\'\',\'#FA3232\',\'Strongly Republican\',\'\',\'\',\'\',\'\'));\" shape=poly coords=\"387,224,415,221,423,250,428,257,426,264,429,275,398,278,398,281,401,281,401,287,397,288,394,282,393,289,387,289\">');
 document.write('<area href=\"/evp2026/Senate/Graphs/alaska.html\" onmouseover=\"return escape(tooltip(\'Alaska\',\'1\',\'50\',\'48\',\'\',\'Oct 29\',\'AK Survey+Siena U.\',\'\',\'#97A9F4\',\'Barely Democratic\',\'\',\'\',\'\',\'\'));\" shape=poly coords=\"10,273,17,271,20,264,32,258,65,268,66,317,79,320,92,335,84,341,68,321,52,316,39,334,32,332,15,341,13,340,29,326,6,321,11,309,22,302,22,296,11,298,5,293,15,285,15,280,10,278\">');
 document.write('<area href=\"/evp2026/Senate/Graphs/arizona.html\" onmouseover=\"return escape(tooltip(\'Arizona\',\'0\',\'\',\'\',\'\',\'\',\'\',\'\',\'\',\'No Senate election in 2026<br />Mark Kelly (D) is up in 2028 <br />Ruben Gallego (D) is up in 2030\',\'\',\'\',\'\',\'\'));\" shape=poly coords=\"84,253,89,249,95,230,91,221,93,207,101,203,103,195,156,202,150,278,129,277\">');
@@ -346,7 +346,7 @@ function tooltip(state,ev,dem,gop,nader,pdate,source,filename,color,msg,kg,gore2
 	<font size=1> <i>Source: '+source+' ('+pdate+')</td><tr><td align=left nowrap><font style:\"font-size:8px\">John Barrasso (R) is up for reelection in 2030</font></td></table class="popupbox">';
 
  }
-	
+
 }
 
 var ttBgColor      = '#FFFFFF';	   // controls color of the popupbox boxes on the map
@@ -728,7 +728,7 @@ function tt_Show(t_e, t_id, t_above, t_delay, t_fix, t_left, t_offx, t_offy, t_s
 				else t_sh.style.height = t_h + 'px';
 			}
 		}
-		
+
 		tt_GetSelects();
 
 
